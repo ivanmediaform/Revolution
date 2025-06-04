@@ -1,0 +1,12 @@
+{
+    "name": "revolution/condominium",
+    "description": "Software condominiale",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Revolution\\": "src/"
+        }
+    }
+}
